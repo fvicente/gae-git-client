@@ -1,0 +1,9 @@
+[submodule "submodules/dulwich"]
+	path = submodules/dulwich
+	url = https://github.com/fvicente/dulwich.git
+[submodule "submodules/gcs-client"]
+	path = submodules/gcs-client
+	url = https://github.com/GoogleCloudPlatform/appengine-gcs-client.git
+[submodule "submodules/paramiko"]
+	path = submodules/paramiko
+	url = https://github.com/fvicente/paramiko.git
